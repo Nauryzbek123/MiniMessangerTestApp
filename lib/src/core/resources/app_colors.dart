@@ -11,6 +11,10 @@ class AppColors {
   static const Color greenColor = Color(0xFF3CED78);
   // dark green text color
   static const Color darkGreenColor = Color(0xFF00521C);
+  // divider color
+  static const Color dividerColor = Color(0xFFEDF2F6);
+  // dark grey color 
+  static const Color darkGreyColor = Color(0xFF5E7A90);
 
   AppColors._();
 }
